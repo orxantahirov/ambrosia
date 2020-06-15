@@ -1,0 +1,423 @@
+@media only screen and (min-width:992px) and (max-width:1199px) {
+  
+    nav h1 {
+        font-size: 28px;
+        
+        
+    }
+  
+
+
+    #third h2{
+        font-size: 60px; 
+    }
+
+    #five h2{
+        font-size: 60px;
+        
+    }
+    form{
+        margin-left: 50px;
+    }
+    #reservation-h2{
+        font-size: 60px;
+        
+    }
+    #six{
+        padding-bottom: 70px;
+    }
+    #personal-h2{
+        font-size: 80px;
+        font-style: italic;
+        text-align: center;
+        padding-top: 200px;
+        color: #b1ae00;
+        font-family: "Yeseva One";
+    }
+
+    .row1 {
+        display: flex;
+        flex-direction: row;
+      }
+      .col1-md-6 {
+        display: flex;
+        flex-direction: row;
+      }
+  
+   
+}
+
+
+
+@media only screen and (min-width:768px) and (max-width:991px){
+    .menu-show{
+        display: none;
+    }
+    .menu-drop{
+        display: block;
+    }
+    .menu-flex{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .dropbtn {
+         font-family: "Lato";
+        background-color: #cc9900;
+        color: white;
+        padding: 16px;
+        font-size: 16px;
+        border: none;
+        cursor: pointer;
+        margin-top: 20px;
+    }
+    .dropdown{
+        padding-top: 25px;
+    }
+    nav h1 {
+        font-size: 23px;
+        padding-top: 40px;
+        
+    }
+    ul li a{
+        font-size: 13px;
+    }
+  
+     #second h2{
+            font-size: 20px;
+        }    
+    #second p{
+        font-size: 13px;
+    }
+    #third h2{
+        font-size: 60px;
+        
+    
+    }
+
+    #five h2{
+        font-size: 40px;
+    }
+
+    #six h3{
+        font-size: 52px;
+       
+    }
+    #reservation-h2{
+        font-size: 60px;
+        
+    }
+    #six{
+        padding-bottom: 70px;
+    }
+    #personal-h2{
+        font-size: 50px;
+     
+    }
+    #seven h3{
+        font-size: 56px;
+    }
+
+    #seven img{
+        width: 170px;
+        height: 170px;
+    }
+
+    #eight h2{
+        font-size: 40px;
+        margin-top: 0;
+        padding-bottom: 140px;
+    }
+    #eight{
+        height: auto;
+    }
+    #nine button{
+        margin: 0;
+        padding: 15px 90px 10px 90px;
+         
+        }
+        #ten h2{
+            font-size: 50px;
+        }
+    #eleven h3{
+        font-size: 40px;
+    }
+    .row1 {
+        display: flex;
+        flex-direction: row;
+      }
+      .col1-md-6 {
+        display: flex;
+        flex-direction: column;
+      }
+
+}
+
+
+
+@media only screen and (min-width:576px) and (max-width:767px){
+    .menu-show{
+        display: none;
+    }
+    .menu-drop{
+        display: block;
+    }
+    .menu-flex{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+     .dropbtn {
+         font-family: "Lato";
+        background-color: #cc9900;
+        color: white;
+        padding: 16px;
+        font-size: 16px;
+        border: none;
+        cursor: pointer;
+        margin-top: 20px;
+      }
+    nav h1 {
+        font-size: 23px;
+        padding-top: 20px;
+
+        
+    }
+    ul li a{
+        font-size: 13px;
+    }
+ 
+
+    #second h2{
+        font-size: 20px;
+    }    
+    #second p{
+        font-size: 13px;
+    }    
+    #third h2{
+        font-size: 60px;
+        
+    
+    } 
+    #five h2{
+        font-size: 40px;
+    }
+    #six h3{
+        font-size: 52px;
+       
+    }
+    #reservation-h2{
+        font-size: 50px;
+        
+    }
+    #six{
+        padding-bottom: 70px;
+    }
+    #personal-h2{
+        font-size: 37px;
+     
+    }
+    #seven h3{
+        font-size: 56px;
+    }
+    .mt-30{
+        margin-top: 30px;
+    }
+    .header-1{
+        font-size: 60px;
+    }
+    #eight h2{
+        font-size: 40px;
+        margin-top: 0;
+        padding-bottom: 140px;
+    }
+    #eight{
+        height: auto;
+    }
+    #nine span:last-child{
+        font-size: 16px;
+
+}
+    #nine button{
+        margin: 0;
+        padding: 15px 55px 10px 60px;
+         
+        }
+    #ten h2{
+            font-size: 40px;
+        }   
+  
+    #eleven h3{
+        font-size: 40px;
+    }
+    .row1 {
+        display: flex;
+        flex-direction: row;
+      }
+      .col1-md-6 {
+        display: flex;
+        flex-direction: column;
+      }
+
+}
+
+
+
+@media only screen  and (max-width:575px){
+    .menu-show{
+        display: none;
+    }
+    .menu-drop{
+        display: block;
+    }
+    .menu-flex{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .dropbtn {
+        font-family: "Lato";
+       background-color: #cc9900;
+       color: white;
+       padding: 16px;
+       font-size: 16px;
+       border: none;
+       cursor: pointer;
+       margin-top: 20px;
+     }
+    nav h1 {
+        font-size: 20px;   
+        padding-top: 20px; 
+    }
+    ul li a{
+        font-size: 10px;
+    }
+ 
+
+    #second h2{
+        font-size: 20px;
+    }    
+    #second p{
+        font-size: 13px;
+    }  
+    #photo-1{
+       width: 400px;
+       margin: auto;
+    }  
+    #third h2{
+        font-size: 40px; 
+    }
+    #third a{
+    padding: 15px 50px 15px 50px;
+    }
+
+    #five h2{
+        font-size: 30px;
+    }
+
+    #five a{
+
+        padding: 15px 50px 15px 50px;
+    }
+    #six h3{
+        font-size: 32px;
+       
+    }
+    #reservation-h2{
+        font-size: 35px;
+        
+    }
+    #six{
+        padding-bottom: 40px;
+    }
+    #personal-h2{
+        font-size: 37px;
+     
+    }
+    #seven img{
+        width: 170px;
+        height: 170px;
+    }
+    #seven h3{
+        font-size: 36px;
+    }
+    
+    .header-1{
+        font-size: 30px;
+    }
+    #eight h2{
+        font-size: 40px;
+        margin-top: 0;
+        padding-bottom: 140px;
+    }
+    #eight{
+        height: auto;
+    }
+    #nine h3{
+        font-size: 40px;
+    }
+  
+    #nine span:last-child{
+        font-size: 11px;
+
+}
+    #nine button{
+    margin: 0;
+    padding: 15px 40px 10px 40px;
+    
+    }
+    #ten h2{
+        font-size: 40px;
+    }
+    #eleven h3{
+        font-size: 40px;
+        left: 0;
+    }
+    .p h4{
+        font-size: 1em;
+      
+    }
+
+    
+  .detail_5 h3,
+  .detail_4 h3,
+  .detail_3 h3,
+  .detail_2 h3,
+  .detail h3,
+  .detail_1 h3 {
+        font-size: 1em;
+  }
+
+  .detail_5 h4,
+  .detail_4 h4,
+  .detail_3 h4,
+  .detail_2 h4,
+  .detail h4,
+  .detail_1 h4 {
+  font-size: 10px;
+  font-weight: 400;
+  }
+
+  .detail-2 h5 {
+   font-size: 14px;
+   margin: 0;
+   font-weight: 600;
+  }
+
+  .detail-2 p {
+  font-size: 10px;
+  }
+
+  .p{
+      left: 38%;
+    top: 10px;
+  }
+  .row1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .col1-md-6 {
+    display: flex;
+    flex-direction: column;
+  }
+}
